@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import React, { useState } from 'react';
 import { useRouter } from 'next/router';
 import { FaCloudUploadAlt } from 'react-icons/fa';

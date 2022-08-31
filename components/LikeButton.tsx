@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
+/* eslint-disable no-underscore-dangle */
 import React, { useState, useEffect } from 'react';
 import { MdFavorite } from 'react-icons/md';
 
